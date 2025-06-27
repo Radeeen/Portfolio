@@ -1,8 +1,8 @@
-# Faldi portfolio webpage
+# Herick portfolio webpage
 
 A portfolio web site completely made in html css and js from ground up.
 
-#### Watch it live here - [faldiramadhan.vercel.app/](https://faldiramadhan.vercel.app/)
+#### Watch it live here - [radeeen.vercel.app/](https://radeeen.vercel.app/)
 
 <br>
 
